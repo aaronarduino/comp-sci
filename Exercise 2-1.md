@@ -1,4 +1,4 @@
-#Exercise 2-1
+# Exercise 2-1
 
 **1. what is a simple graph?**
 A simple graph is a graph where edges are not directional in any way an where multipule edges and loops are disallowed.
