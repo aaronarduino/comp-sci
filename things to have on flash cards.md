@@ -3,3 +3,4 @@
 - golang append func sencond arg
 - type alias method workings
 - Golang bool default value
+- How to check if a map contains a key in Golang
